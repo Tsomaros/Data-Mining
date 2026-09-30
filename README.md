@@ -154,7 +154,3 @@ The projects use several metrics depending on the task:
 ## Documentation
 
 The repository also contains the original project report in `Project 2022-2023/data_mining_project_2023.pdf`.
-
-## License
-
-This repository does not currently specify a license.
